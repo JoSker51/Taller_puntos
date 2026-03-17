@@ -1,0 +1,3 @@
+/home/vboxuser/Documents/Taller_puntos/build/CMakeFiles/taller.dir
+/home/vboxuser/Documents/Taller_puntos/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/Documents/Taller_puntos/build/CMakeFiles/rebuild_cache.dir
